@@ -1,0 +1,29 @@
+.intro{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic; 
+    font-variant: small-caps;
+    color: black;
+    width: 250px;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: center;
+    text-shadow: black;
+}
+
+
+button{
+    border: none;
+    border-radius: 0px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;     
+    cursor: pointer;
+    background-color: transparent;
+    width: 280px;
+}
+.Libro{
+    margin-top: 80px;
+}
+
+
